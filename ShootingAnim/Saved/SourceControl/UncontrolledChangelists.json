@@ -92,10 +92,15 @@
 				"D:/UnrealProject/LyraAnim/ShootingAnim/Content/ThirdPerson/Blueprints/Lyra_Anim/AimOffsets/MM_Unarmed_Idle_Ready_AO_RC.uasset",
 				"D:/UnrealProject/LyraAnim/ShootingAnim/Content/ThirdPerson/Blueprints/Lyra_Anim/AimOffsets/MM_Unarmed_Idle_Ready_AO_RD.uasset",
 				"D:/UnrealProject/LyraAnim/ShootingAnim/Content/ThirdPerson/Blueprints/Lyra_Anim/AimOffsets/MM_Unarmed_Idle_Ready_AO_RU.uasset",
-				"D:/UnrealProject/LyraAnim/ShootingAnim/Content/ThirdPerson/Blueprints/Lyra_Anim/AO_Idle.uasset",
 				"D:/UnrealProject/LyraAnim/ShootingAnim/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"D:/UnrealProject/LyraAnim/ShootingAnim/Content/ThirdPerson/Blueprints/Lyra_Anim/Actions/MM_Rifle_Fire_Montage.uasset",
 				"D:/UnrealProject/LyraAnim/ShootingAnim/Content/ThirdPerson/Blueprints/Lyra_Anim/AimOffsets/AO_Idle.uasset",
+				"D:/UnrealProject/LyraAnim/ShootingAnim/Content/ThirdPerson/Blueprints/ABP_Unarmed_Child.uasset",
+				"D:/UnrealProject/LyraAnim/ShootingAnim/Content/ThirdPerson/Blueprints/ALI_Shooting.uasset",
+				"D:/UnrealProject/LyraAnim/ShootingAnim/Content/ThirdPerson/Blueprints/ABP_Base.uasset",
+				"D:/UnrealProject/LyraAnim/ShootingAnim/Content/ThirdPerson/Blueprints/ABP_Rifle.uasset",
+				"D:/UnrealProject/LyraAnim/ShootingAnim/Content/ThirdPerson/Blueprints/Lyra_Anim/Actions/MM_Rifle_Reload_Montage.uasset",
+				"D:/UnrealProject/LyraAnim/ShootingAnim/Content/ThirdPerson/Blueprints/Lyra_Anim/AO_Idle.uasset",
 				"D:/UnrealProject/LyraAnim/ShootingAnim/Content/Characters/Mannequins/Meshes/Quinn_CtrlRig.uasset",
 				"D:/UnrealProject/LyraAnim/ShootingAnim/Content/ThirdPerson/Blueprints/Quinn_CtrlRig.uasset"
 			]
